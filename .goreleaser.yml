@@ -2,7 +2,6 @@ builds:
 - main: cmd/godiskalert/godiskalert.go
   binary: godiskalert
   goos:
-  - windows
   - darwin
   - linux
   goarch:
